@@ -1,0 +1,49 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table{
+    width: 70%;
+}
+th, td {
+    height: 25px;
+}
+th {
+    background-color: #9EB9F3;
+}
+td {background-color: #DBEEF7;}
+
+html {
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+}
+body {background-color: #FAE7EB;}
+
+.index {color: black;
+background-color: #FE88B1;
+display: inline;
+padding: 20px;
+border-radius: 10%;
+margin: 10px;
+}
+.contact {color: black;
+background-color: #F6CF71;
+display: inline;
+padding: 20px;
+border-radius: 10%;
+margin: 10px;}
+.education {color: black;
+background-color: #8BE0A4;
+display: inline;
+padding: 20px;
+border-radius: 10%;
+margin: 10px;}
+.work {color: black;
+background-color: #9EB9F3;
+display: inline;
+padding: 20px;
+border-radius: 10%;
+margin: 10px;}
+
+.info {width: 200px;}
